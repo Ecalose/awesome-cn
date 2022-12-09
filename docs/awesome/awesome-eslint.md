@@ -2,7 +2,7 @@
 
 ## Awesome ESLint [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="https://eslint.org/assets/img/logo.svg" width="160" align="right" alt="eslint">](http://eslint.org)
+[<img src="https://eslint.org/icon.svg" width="160" align="right" alt="eslint">](http://eslint.org)
 
 &gt; 很棒的 ESLint 配置、插件等列表.
 
