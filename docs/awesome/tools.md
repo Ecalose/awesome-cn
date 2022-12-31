@@ -2,7 +2,16 @@
 
 ## Web Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt;用于 Web 开发的托管工具列表.
+&gt;用于 Web 开发的托管工具的绝佳列表.
+
+## Sponsors
+
+<p>
+  <a href="https://sailboatui.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/sailboatui/sailboatui/main/.github/logo-light.svg"  height="50" alt="Sailboat UI">
+  </a>
+</p>
+
 
 ### Response
 
