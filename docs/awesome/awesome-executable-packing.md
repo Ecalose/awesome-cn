@@ -575,6 +575,7 @@
 - [REMnux](https://remnux.org) - 用于逆向工程和分析恶意软件的 Linux 工具包.
 - [Renovo](https://doi.org/10.1145/1314389.1314399) - 建立在 TEMU（BitBlaze 的动态分析组件）之上的检测工具，基于新生成代码的执行和程序启动后监控内存写入.
 - [ResourceHacker](http://angusj.com/resourcehacker) - 32 位和 64 位 Windows 应用程序的资源编辑器.
+- [Resource Cracker](https://www.pelock.com/products/resource-cracker)
 - [RetDec](https://github.com/avast/retdec) - 基于 LLVM 的可重定向机器代码反编译器.
 - [RTD](https://www.sac.sk/download/pack/rtd_rp24.zip) - 玫瑰补丁 - TinyProt/Rosetiny 解包器.
 - [RUPP](https://www.sac.sk/download/pack/rupp037.rar) - ROSE SWE UnPaCKER PaCKaGE（仅适用于 DOS 可执行文件）.
